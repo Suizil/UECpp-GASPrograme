@@ -1,0 +1,22 @@
+# VS caches
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+Package/
+*.ucas
+*.utoc
+*.pak
+
+# UE generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# unuseful files
+*.pdb
+*.obj
+
